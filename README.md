@@ -1,5 +1,13 @@
-# ¡Hola! 👋
-Bienvenidos a mi GitHub.
+# ¡Hola a todos/as! 👋
+<div style="display:inline-block;vertical-align:top;">
+  <img style="" src="https://imkova.cl/wp-content/uploads/2019/06/banner-desarrollador-web-1-1-1024x410.jpg" />
+</div>
+
+<div style="margin-top: 5em;">
+  Soy Domingo, desarrollador web y titulado en mantenimiento de sistemas microinformáticos y redes. Dentro de mis repositorios se podran encontrar todos los contenidos que voy creando.
+</div>
+
+
 
 <!--
 **DomingoFloresOrtega/DomingoFloresOrtega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
